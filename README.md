@@ -2,7 +2,7 @@
 
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img data-importer="image" height="200" src="https://avatars.githubusercontent.com/u/106000834?v=4"  />
 </div>
 
 <h1 align="center">Hi, I'm Mochix2Milkkira</h1>
