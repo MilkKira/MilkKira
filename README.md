@@ -2,13 +2,10 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Milkkira 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Milkkira 👋
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milkway719@gmail.com)](mailto:milkway719@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🎯 Portfolio website: [Portfolio](https://mochix2milk.github.io/)
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -27,18 +24,21 @@
 <br>
 
 ### Things I love:
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- JAVA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- C #
+- C/C++
+- Python
 - Backend Development ✍️
 
 
 ### :zap: Github Stats
 ## Star History
 
-<a href="https://www.star-history.com/?repos=varadbhogayata%2Fvaradbhogayata.github.io&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=MilkKira%2FMilkKira.github.io&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=varadbhogayata/varadbhogayata.github.io&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=varadbhogayata/varadbhogayata.github.io&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=varadbhogayata/varadbhogayata.github.io&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MilkKira/MilkKira.github.io&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MilkKira/MilkKira.github.io&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=MilkKira/MilkKira.github.io&type=date&legend=top-left" />
  </picture>
 </a>
 <div align="center">
