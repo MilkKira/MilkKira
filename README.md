@@ -42,24 +42,5 @@
 
 ### Github Stats:
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Milkkira&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-<br>
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milkkira/Milkkira/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Milkkira/Milkkira/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Milkkira/Milkkira/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=milkkira%2Fmilkkira&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=milkkira/milkkira&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=milkkira/milkkira&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=milkkira/milkkira&type=date&legend=top-left" />
- </picture>
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MilkKira&theme=transparent&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 
